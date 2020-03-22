@@ -10,17 +10,17 @@ import santaBarbaraImage from './assets/santaBarbara.jpg';
 const radioGroup = [
   {
     name: 'House M.D.',
-    apiKey: 'house',
+    apiKey: '118',
     image: houseImage
   },
   {
     name: 'Santa Barbara',
-    apiKey: 'santaBarbara',
+    apiKey: '5909',
     image: santaBarbaraImage
   },
   {
     name: 'The Big Bang Theory',
-    apiKey: 'bigBang',
+    apiKey: '66',
     image: bigBangImage
   }
 ];
